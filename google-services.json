@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169873966248",
+    "project_id": "attos-9d17b",
+    "storage_bucket": "attos-9d17b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169873966248:android:8437797ef60c939e8a6e9d",
+        "android_client_info": {
+          "package_name": "com.attos.attos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxY0wPnlfCg7JMLCmFAQbCgT39ozzHII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
